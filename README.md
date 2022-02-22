@@ -10,6 +10,7 @@ De lá pra cá foram tantas noites passadas a fio diante do PC estudando, testan
 <li>HTML e CSS (+Sass);</li>
 <li>JavaScript (React);</li>
 <li>PHP(Laravel).</li>
+ <li>Sql + MySql</li>
  </ul>
 <h4>🛠️ Ferramentas:</h4>
 <ul>
