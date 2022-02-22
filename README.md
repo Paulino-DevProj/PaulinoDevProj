@@ -12,7 +12,7 @@ PHP(Laravel)
 <h4>🛠️ Ferramentas:</h4>
 Dev: Visual Studio Code, GitHub.
 Design: Adobe XD, Photoshop, Adobe illustrator.
-🎓 Acadêmico:
+<h4>🎓 Acadêmico:</h4>
 Universidade Técnica de Angola
 
 
