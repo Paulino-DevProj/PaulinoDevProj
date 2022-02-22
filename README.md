@@ -7,7 +7,7 @@ Eu me deparei com o desenvolvimento Front-end nas avenidas do design gráfico e 
 De lá pra cá foram tantas noites passadas a fio diante do PC estudando, testando e analisando códigos Html, Css e de Javascript. E como todo amor quando é cultivado cresce, hoje já lido também com a parte Back-end, construindo interfaces de sites e aplicações web incríveis pois é na programação onde os pontos do design gráfico se comectaram com as interfaces e o código fonte.
 <h4>💻 Linguagens:</h4>
 <ul>
-<li>HTML e CSS;</li>
+<li>HTML e CSS (+Sass);</li>
 <li>JavaScript (React);</li>
 <li>PHP(Laravel).</li>
  </ul>
